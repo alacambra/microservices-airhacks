@@ -1,0 +1,4 @@
+repo.git.tar
+target/
+.DS_Store
+*.pdf
